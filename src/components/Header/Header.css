@@ -1,0 +1,14 @@
+.banner img{
+    height: 250px;
+    object-fit: fill;
+}
+.navbar{
+    background-color: #a927dd;
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 30px;
+}
+.nav-item a{
+    font-weight: 600;
+}
